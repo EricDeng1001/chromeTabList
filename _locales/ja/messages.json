@@ -1,0 +1,80 @@
+{
+   "163": {
+      "message": "网易"
+   },
+   "58": {
+      "message": "58同城"
+   },
+   "appDesc": {
+      "message": "Open too many tabs in your browser? Don't worry, let Aerys II Targaryen, also knownd as the Mad King, help you burn them all!"
+   },
+   "appName": {
+      "message": "Aerys - タブマネージャー"
+   },
+   "baidu": {
+      "message": "百度"
+   },
+   "changeTabsOrder": {
+      "message": "Realign tabs together by class when clicked in popup"
+   },
+   "closed_tabs_number_text": {
+      "message": "Max number of tabs in rencently closed"
+   },
+   "ctrip": {
+      "message": "携程网"
+   },
+   "dealmoon": {
+      "message": "北美省钱快报"
+   },
+   "disableHistory": {
+      "message": "Disable recently closed history"
+   },
+   "disableTabNumber": {
+      "message": "Disable display number of tabs on icon"
+   },
+   "douban": {
+      "message": "豆瓣网"
+   },
+   "fanli": {
+      "message": "返利网"
+   },
+   "hupu": {
+      "message": "虎扑"
+   },
+   "iqiyi": {
+      "message": "爱奇艺"
+   },
+   "jd": {
+      "message": "京东"
+   },
+   "jumei": {
+      "message": "聚美优品"
+   },
+   "qq": {
+      "message": "qq.com"
+   },
+   "suning": {
+      "message": "苏宁易购"
+   },
+   "taobao": {
+      "message": "Taobao.com"
+   },
+   "tmall": {
+      "message": "Tmall.com"
+   },
+   "vip": {
+      "message": "唯品会"
+   },
+   "wikipedia": {
+      "message": "维基百科"
+   },
+   "youku": {
+      "message": "优酷"
+   },
+   "zhihu": {
+      "message": "知乎"
+   },
+   "zuche": {
+      "message": "神州租车"
+   }
+}
